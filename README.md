@@ -1,5 +1,5 @@
 # TruveHunt
-A Game similar to Bandit, but a little easier.
+A simple game on CLI similar to Bandit, but a little easier.
 This is the first time I am making something of this kind. 
 I will try my best to add new levels whenever possible.
 I would really appriciate if you make new levels and make a MR.
