@@ -13,3 +13,4 @@ Objective :- Find all the heroes in order to complete the game. For now there ar
 --the first hero is hiding in the file DO_NOT_CHEAT. Find him and he will reveal a hint to find the other hero.
 
 Hope you enjoy it.
+All the hero names are in txtfiles.
